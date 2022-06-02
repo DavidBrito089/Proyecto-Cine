@@ -1,4 +1,5 @@
 //grupo1
+//commit 2
 #include <iostream>
 #include "cartelera.h"
 using namespace std;
