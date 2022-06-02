@@ -1,3 +1,4 @@
+//grupo1
 #include <iostream>
 #include "cartelera.h"
 using namespace std;
